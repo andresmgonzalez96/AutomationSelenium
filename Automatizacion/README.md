@@ -2,7 +2,7 @@
 
 Descripcion de la Prueba tecnica Realizada:
 
-Se realizaron 2 procesos de automatizacion por UI en un proyecto tipo gradle, el primero se utilizó Cucumber + Selenium + Java y en el segundo se utilizo JUnit + Selenium + Java
+Se realizaron 2 procesos de automatizacion por UI en un proyecto tipo gradle, el primero se utilizó Cucumber + Selenium + Java y en el segundo se utilizo JUnit + Selenium + Java, en ambas formas de automatizacion extendemos de una clase base la cual se encarga de todo el proceso de inicializar el browser y realizar el teardown del mismo.
 
 Proceso 1.
 
